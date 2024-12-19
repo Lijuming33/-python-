@@ -29,4 +29,3 @@ anaconda、miniconda、miniforge、pytorch、pytorch3d、tensorflow、cuda、cud
 
 wsl1升级到wsl2支持GPU。Windows10安装wsl子系统、Windows11安装wsl子系统、Windows10安装Linux虚拟机、Windows11安装Linux虚拟机、Windows10安装Ubuntu、Windows11安装Ubuntu。
 
-基础标价为wsl2+Linux一个。极高效率！安装不成功？全款退！修复失败？全款退！
