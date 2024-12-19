@@ -1,4 +1,5 @@
 VX：lucky_devil_M
+
 闲鱼号：华南生动的香芋
 
 python安装、模块兼容问题、TensorFlow、Pytorch(GPU)、apex、Mamba-SSM、Vision-mamba、pyqt、CUDA、cudnn、PaddlePaddle百度飞浆、GDAL、osgeo、selenium、Arcgis、arcpy、opencv、jieba、pandas、matplotlib、ctcdecode、netCDF4、pymc3、qlib、pywt、labelme、labelimg、、pyqt5、pyqt6、QT Designer、Pyuic、tensorboard离线安装、pycharm专业版（免安装）、Anaconda/Miniconda/Mambaforge/Miniforge安装、第三方库等，远程安装技术支持。
